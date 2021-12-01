@@ -15,7 +15,6 @@ Include at least 3 wireframes here, adding images or files to your repository as
 ![](wireframes/HomePage.png)
 ![](wireframes/Profile Page.png)
 ![](wireframes/AppointmentsPage.png)
-![](wireframes/HomePage.png)
 
 ### Project Tracker
 
